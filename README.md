@@ -11,11 +11,10 @@ Real-time video translation: Captures video, processes the audio in real-time, t
 Text-to-speech: Converts the translated text to speech and plays it back.
 
 ## Setup
-Prerequisites
+Prerequisites : 
 
-Python 3.x
-
-Google Cloud credentials (for Google Cloud Translate and Speech-to-Text services)
+- Python 3.x
+- Google Cloud credentials (for Google Cloud Translate and Speech-to-Text services)
 
 ## Installation
 
