@@ -62,5 +62,5 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 # Acknowledgments
 
-This project was developed during the GDG Baku Build AI event. Special thanks to the organizers and participants for their support and contributions.
+This project was developed during the [GDG Baku](https://gdgbaku.az/) [Build AI event](https://gdg.community.dev/events/details/google-gdg-baku-presents-build-with-ai-real-time-video-translator-tool/). Special thanks to the organizers and participants for their support and contributions.
 
