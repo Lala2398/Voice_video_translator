@@ -52,12 +52,12 @@ export GOOGLE_APPLICATION_CREDENTIALS="path/to/your/service-account-file.json"
     Press 'q' to quit the video feed.
 
 ## Project Files 
-- Voice_video_translator.ipnyb : The main script for the voice / video translation features.
-- requirements.txt: The file listing all the required Python packages.
+- [Voice_video_translator.ipnyb :](https://github.com/Lala2398/Voice_video_translator/blob/main/Voice_video_translator.ipynb)  The main script for the voice / video translation features.
+- [requirements.txt:](https://github.com/Lala2398/Voice_video_translator/blob/main/requirements.txt) The file listing all the required Python packages.
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Lala2398/Voice_video_translator/blob/main/LICENSE) file for more details.
 
 
 # Acknowledgments
