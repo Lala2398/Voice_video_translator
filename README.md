@@ -1,7 +1,6 @@
 # Voice/Video Translator
 
-This project demonstrates a real-time voice and video translator. It was developed during the GDG Baku Build AI event. The project leverages Google Cloud services for speech recognition and translation, converting Azerbaijani speech to English text and vice versa.
-
+This project demonstrates a real-time voice and video translator. It was developed during the GDG Baku Build AI event. The project leverages Google Cloud services for speech recognition and translation, converting Azerbaijani speech to English text. 
 ## Features
 
 Real-time voice translation: Listens to speech in Azerbaijani and translates it to English.
