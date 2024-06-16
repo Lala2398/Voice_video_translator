@@ -23,7 +23,7 @@ Clone the repository:
 
 ````
 git clone https://github.com/Lala2398/voice-video-translator.git
-cd voice-video-translator
+cd voice_video_translator
 ````
 
 Install the required packages:
